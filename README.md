@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 👤 Author
 
 **Sai Tejeswar**
@@ -32,3 +33,7 @@ This project was completed as part of the **British Airways Data Science Job Sim
 - 📧 Email: [sanjeevisaitejeswarreddy@gmail.com](mailto:sanjeevisaitejeswarreddy@gmail.com)
 - 💼 LinkedIn: [Sai Tejeswar](https://www.linkedin.com/in/sai-tejeswar-20a866156/)
 - 🐙 GitHub: [saitej0912](https://github.com/saitej0912)
+=======
+# british-airways-booking-prediction
+Predicting customer booking behavior using machine learning. Analyzed 50,000 customer records and built a Random Forest model achieving 86% accuracy
+>>>>>>> 0f73dec1050317ef583d5d813187a7b2b6e26b78
