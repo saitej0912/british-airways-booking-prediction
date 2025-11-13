@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Mac, Windows, and Linux system files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+env/
+venv/
+ENV/
+
+# Data files and outputs (uncomment to ignore as needed)
+#*.csv
+#*.tsv
+#*.xlsx
+#*.h5
+
+# Results, logs, temp, or cache
+*.log
+*.tmp
+*.out
+.cache/
+.logs/
+
+# IDE and editor folders/files
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environment files / credentials
+.env
+.env.*
+*.secret
+*.key
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Jupyter kernel metadata
+.ipynb_kernel/
+
+# Plots and images (uncomment to ignore)
+#*.png
+#*.jpg
+#*.pdf
+#*.svg
+
+# Project-specific Ignores
+# Uncomment if you want to keep your local data, model, or output folders private:
+#data/
+#models/
+#outputs/
